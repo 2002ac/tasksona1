@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.seh-1 {
+    width: 100%;
+    height: 1100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.seh-1-top {
+
+    width: 1000px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+.seh-1-top-right {
+    width: 480px;
+    height: 440px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
+
+.seh-1-top-right-top {
+    width: 480px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 15px;
+}
+
+.seh-1-top-right-bottom {
+    width: 480px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px; 
+}
+
+.seh-1-top-right-bottom-img {
+    width: 150px;
+    height: 170px;
+    flex-wrap: wrap;
+    object-fit: cover;
+    /* background-size: 100%; */
+    background-size: 100% 100%;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+}
+
+
+.seh-1-top-left {
+    width: 440px;
+    height: 420px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-image: url(https://th.bing.com/th/id/R.610a2187b780be7ea62f92ee46d81dd0?rik=DuWyWIk2eGxWmQ&riu=http%3a%2f%2fimages.freehdw.com%2f800%2fnature-landscapes_widewallpaper_beautiful-wood-lined-restaurant-hdr_25766.jpg&ehk=nDNYAo45JhlsBqXoNhR17ZnHZT3pu4CgxTxtJSG6y%2bs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+
+}
+
+.daire {
+    background-color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.seh-1-bottom {
+      width: 1100px;
+      height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 70px;
+      background-image: url(https://img.freepik.com/premium-vector/brochure-black-gold-cover-design-layout-set-business-construction-abstract-geometry-with-colored-corporate-vector-illustration-background-good-annual-report-industrial-catalog-design_181182-2344.jpg?w=360);
+      background-size: 100% 100%;
+}
+
+.seh-1-bottom-right {
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.seh-1-bottom-right-top {
+    width: 400px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+}
+.seh-1-bottom-right-bottom {
+    width: 400px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+    gap: 30px;
+}
+.seh-1-bottom-right-cvadrat-1 {
+    width: 170px;
+    height: 120px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    border-radius: 5px;
+}
+
+.seh-1-bottom-right-cvadrat-2 {
+    width: 170px;
+    height: 120px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    border-radius: 5px;
+
+}
+.s1brcid {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -35px;
+}
+.seh-1-bottom-left {
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+
+button{
+    width: 80%;
+    height: 40px;
+    background-color: brown;
+    color: white;
+}
